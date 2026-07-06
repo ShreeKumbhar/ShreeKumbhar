@@ -4,8 +4,8 @@
 
 <br/>
 
-<a href="mailto:shreekumbhar23@gmail.com">
-  <img src="https://img.shields.io/badge/Email-shreekumbhar23%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:shreekumbhar023@gmail.com">
+  <img src="https://img.shields.io/badge/Email-shreekumbhar023%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/shreekumbhar">
   <img src="https://img.shields.io/badge/LinkedIn-shreekumbhar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
