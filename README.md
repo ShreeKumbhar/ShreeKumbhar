@@ -125,7 +125,7 @@ Explore the full collection of projects, experiments, and contributions on my Gi
 </tr>
 </table>
 
-> ✏️ *Note: Add a one-line tech stack under each project (e.g. "Java, Spring Boot, MySQL") for extra polish once you finalize the descriptions.*
+> 
 
 <br/>
 
