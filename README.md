@@ -4,8 +4,8 @@
 
 <br/>
 
-<a href="mailto:shreekumbhar023@gmail.com">
-  <img src="https://img.shields.io/badge/Email-shreekumbhar023%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:shreekumbhar23@gmail.com">
+  <img src="https://img.shields.io/badge/Email-shreekumbhar23%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/shreekumbhar">
   <img src="https://img.shields.io/badge/LinkedIn-shreekumbhar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -31,34 +31,69 @@
 
 ## 🧭 About Me
 
-```java
-public class ShreeKumbhar implements BackendDeveloper {
+<img align="right" width="260" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
-    private final String education = "B.E. Computer Engineering, SPPU (2023–2027)";
-    private final String focus     = "Java · Spring Boot · REST APIs · Distributed Systems";
-    private final String status    = "Seeking Software Engineering Internships";
+> *"I build systems that are correct, secure, and pleasant to maintain — then teach them to think."*
 
-    @Override
-    public String[] currentlyBuilding() {
-        return new String[] {
-            "Local-first AI/RAG systems with Spring Boot + pgvector",
-            "Secure, JWT-protected multi-tenant REST APIs",
-            "Backend systems modeled on real financial workflows"
-        };
-    }
+I'm a backend-focused engineer who enjoys turning complex problems into clean, scalable systems — and increasingly, into systems that reason. My core stack is **Java and Spring Boot**, but I spend just as much time in the AI/LLM space: building **retrieval-augmented pipelines**, working with **vector databases**, and running **local inference** so intelligence doesn't have to come at the cost of privacy or cloud spend.
 
-    @Override
-    public String[] currentlyLearning() {
-        return new String[] { "Spring Security", "Docker", "System Design" };
-    }
-}
+<br/>
+
+<table width="100%">
+<tr>
+<th align="left" width="25%">🎓 Education</th>
+<td>B.E. Computer Engineering, SPPU — 4th Year · CGPA <b>8.59</b></td>
+</tr>
+<tr>
+<th align="left">💼 Focus</th>
+<td>Java · Spring Boot · REST APIs · Distributed Systems</td>
+</tr>
+<tr>
+<th align="left">🧠 Also into</th>
+<td>RAG pipelines · pgvector · Local LLM inference (Ollama)</td>
+</tr>
+<tr>
+<th align="left">📌 Status</th>
+<td>Actively seeking <b>SDE / Java Backend Developer</b> internships</td>
+</tr>
+</table>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 Currently Building
+```diff
++ Local-first AI/RAG systems (Spring Boot + pgvector)
++ Secure, JWT-protected multi-tenant REST APIs
++ Backend systems modeled on real financial workflows
 ```
 
-- 🎓 4th-year Computer Engineering student at **PCET's NMIET, Pune (SPPU)** — CGPA **8.59**
-- 💼 Backend-focused developer building with **Java, Spring Boot, PostgreSQL & pgvector**
-- 🧠 Comfortable blending backend engineering with **AI/LLM integration** (RAG, local inference via Ollama)
-- 💻 Solved **250+ problems on LeetCode** and **300+ on GeeksforGeeks**
-- 🔍 Actively looking for **SDE / Java Backend Developer internships**
+</td>
+<td width="50%" valign="top">
+
+### 📚 Currently Learning
+```diff
+! Spring Security — deep dive
+! Docker & containerized deployments
+! System Design at scale
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+| 💻 LeetCode | 🧩 GeeksforGeeks | 🎓 CGPA | 📍 Location |
+|:---:|:---:|:---:|:---:|
+| **250+** solved | **300+** solved | **8.59** | Pune, India |
+
+</div>
 
 <br/>
 
@@ -116,6 +151,9 @@ public class ShreeKumbhar implements BackendDeveloper {
 
 ## 🚀 Featured Projects
 
+
+<br/>
+
 <details open>
 <summary><b>🤖 CodeLens AI — AI Code Intelligence Platform</b></summary>
 <br/>
@@ -128,6 +166,7 @@ public class ShreeKumbhar implements BackendDeveloper {
 - Secured a **multi-tenant REST API** with JWT, enforcing user-scoped repository isolation across 6 endpoints
 
 🔗 [View Repository](https://github.com/ShreeKumbhar/codelens-ai)
+
 </details>
 
 <details>
@@ -142,6 +181,7 @@ public class ShreeKumbhar implements BackendDeveloper {
 - Converted raw statistical correlations into human-readable business insights via prompt engineering
 
 🔗 [View Repository](https://github.com/ShreeKumbhar/InsightGen)
+
 </details>
 
 <details>
@@ -155,6 +195,7 @@ public class ShreeKumbhar implements BackendDeveloper {
 - Designed clean, testable service-layer architecture for financial computation
 
 🔗 [View Repository](https://github.com/ShreeKumbhar/Interest-Rate-Change-Impact-Simulator)
+
 </details>
 
 <details>
@@ -169,6 +210,7 @@ public class ShreeKumbhar implements BackendDeveloper {
 - Developed REST APIs for seamless frontend–backend communication
 
 🔗 [View Repository](https://github.com/ShreeKumbhar/filmverse)
+
 </details>
 
 <details>
@@ -181,37 +223,25 @@ public class ShreeKumbhar implements BackendDeveloper {
 - Implemented frequency-based relevance ranking to surface the most relevant documents
 
 🔗 [View Repository](https://github.com/ShreeKumbhar/Document-Search-Engine-using-Inverted-Index)
+
 </details>
 
-<details>
-<summary><b>📰 Fake News Detection with Evidence</b></summary>
 <br/>
 
-**Tech Stack:** `Python` `Scikit-learn` `NLTK` `Streamlit`
-
-- Preprocessed news text with NLTK — tokenization, stopword removal, and lemmatization
-- Vectorized text into 5,000 TF-IDF features and classified using Logistic Regression
-- Retrieved real-time Wikipedia evidence to cross-reference news claims
-- Generated a 3-tier verdict (Credible / Uncertain / Potentially Misleading) using model confidence + evidence
-
-🔗 *Add repository link here*
-</details>
-
 <details>
-<summary><b>🗂️ Lost & Found Tracker</b></summary>
+<summary><b>📁 More Repositories</b></summary>
 <br/>
 
-**Tech Stack:** `React` `Glassmorphism UI` `MongoDB`
+| Project | Stack | Link |
+|---|---|---|
+| 📰 Fake News Detection with Evidence | Python · Scikit-learn · NLTK · Streamlit | [View Repository](https://github.com/ShreeKumbhar/Fake-News-Detection-with-Evidence) |
+| 🗂️ Lost & Found Tracker | React · Glassmorphism UI · MongoDB | [View Repository](https://github.com/ShreeKumbhar/Lost_and_Found_tracker) |
 
-- Built a responsive Lost & Found tracker with a modern React Glassmorphism interface
-- Designed a robust MongoDB-backed data layer for item tracking and retrieval
+<br/>
 
-🔗 [View Repository](https://github.com/ShreeKumbhar/Lost_and_Found_tracker)
+<sub>🔗 <a href="https://github.com/ShreeKumbhar?tab=repositories">See all repositories on GitHub →</a></sub>
+
 </details>
-
-<div align="center">
-<sub>📌 <a href="https://github.com/ShreeKumbhar?tab=repositories">See all repositories →</a></sub>
-</div>
 
 <br/>
 
@@ -232,7 +262,6 @@ public class ShreeKumbhar implements BackendDeveloper {
 | Degree | Institution | Duration | Score |
 |---|---|---|---|
 | B.E. Computer Engineering | PCET's Nutan Maharashtra Institute of Engineering and Technology, Pune (SPPU) | 2023 – 2027 | CGPA: 8.59 |
-| Higher Secondary (Science) | Parents' Association English School & Jr. College, Satara | 2022 – 2023 | — |
 
 <br/>
 
@@ -272,8 +301,6 @@ public class ShreeKumbhar implements BackendDeveloper {
 </a>
 
 </div>
-
-> 💡 These cards pull live data straight from your LeetCode and GFG profiles. If a card doesn't render, the free hosting service may be rate-limited — refresh after a minute.
 
 <br/>
 
