@@ -91,7 +91,7 @@ I'm a backend-focused engineer who enjoys turning complex problems into clean, s
 
 | 💻 LeetCode | 🧩 GeeksforGeeks | 🎓 CGPA | 📍 Location |
 |:---:|:---:|:---:|:---:|
-| **250+** solved | **300+** solved | **8.59** | Pune, India |
+| **400+** solved | **400+** solved | **8.64** | Pune, India |
 
 </div>
 
