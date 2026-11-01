@@ -17,12 +17,12 @@
 <br/>
 
 <a href="https://leetcode.com/u/0Q8hhruRHh/">
-  <img src="https://img.shields.io/badge/LeetCode-250%2B%20Solved-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/LeetCode-400%2B%20Solved-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
 </a>
 <a href="https://www.geeksforgeeks.org/profile/shreekumbhar">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-300%2B%20Solved-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" />
+  <img src="https://img.shields.io/badge/GeeksforGeeks-400%2B%20Solved-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" />
 </a>
-<img src="https://img.shields.io/badge/CGPA-8.59-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/CGPA-8.64-blue?style=flat-square" />
 <img src="https://img.shields.io/badge/Pune%2C%20India-📍-informational?style=flat-square" />
 
 </div>
@@ -42,7 +42,7 @@ I'm a backend-focused engineer who enjoys turning complex problems into clean, s
 <table width="100%">
 <tr>
 <th align="left" width="25%">🎓 Education</th>
-<td>B.E. Computer Engineering, SPPU — 4th Year · CGPA <b>8.59</b></td>
+<td>B.E. Computer Engineering, SPPU — 4th Year · CGPA <b>8.64</b></td>
 </tr>
 <tr>
 <th align="left">💼 Focus</th>
